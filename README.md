@@ -6,3 +6,6 @@ You can have a look at the [Jupyter Notebook](https://nbviewer.jupyter.org/githu
 
 ### Disclaimer
 I am not an epidemic or Covid19 expert and I haven't checked the data sources I am using. I simplify follow my curiosity and try to learn the Python [Pandas](https://pandas.pydata.org/) data analysis library.
+
+### Acknowledgment
+I am grateful to the Our World in Data Crew for providing a comprehensive dataset (https://github.com/owid/covid-19-data/tree/master/public/data)
